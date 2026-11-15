@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ADDIS Logistics & Supply Chain Solutions
 
-## Getting Started
+Official bilingual (**Arabic RTL** / **English LTR**) web platform for **ADDIS Logistics & Supply Chain Solutions** (`https://addislogistics-ye.com`) — established in **2009**, operating across **150+ countries** from strategic hubs in **Sana'a, Aden, Hodeidah, and Istanbul**.
 
-First, run the development server:
+## Architecture & Highlights
+
+- **Next.js 16 (App Router) + Static Export (`output: "export"`)**: Pre-rendered static site configured for custom-domain GitHub Pages (`public/CNAME` + `public/.nojekyll`).
+- **Full-Viewport Scroll-Synced 3D Fleet (`Three.js` / `React Three Fiber`)**:
+  - Uses 10 binary `.glb` 3D models in `public/models/`:
+    - `cargo-plane.glb`, `cargo-ship.glb`, `cargo-ship-secondary.glb`, `port-tugboat.glb`, `shipping-container.glb`, `container-stack.glb`, `port-crane.glb`, `freight-truck.glb`, `delivery-truck.glb`, `flatbed-truck.glb`.
+  - Normalized via `THREE.Box3` bounding-box scaling (`NormalizedGLBModel`) and animated in sync with global scroll progress (`0.0 -> 1.0`) plus interactive stage locks.
+- **Automatic Language & RTL/LTR Layout**:
+  - Detects browser language automatically (`ar` -> RTL with Cairo typography, `en` -> LTR with Plus Jakarta Sans), with manual switcher and Light/Dark semantic tokens using pure CSS logical properties (`ps-`, `pe-`, `start-`, `end-`, `text-start`, `rtl:rotate-180`).
+- **Direct RFQ & Communications**:
+  - Freight Quote builder and interactive CBM/Air Chargeable Weight Calculator wired directly to `mailto:info@addislogistics-ye.com`, WhatsApp (`+967 772900086`), and headquarters phone (`+967 1317338`).
+- **SEO, GEO, REO & RAG Ready**:
+  - Structured Schema.org JSON-LD `@graph` (`Organization`, `LocalBusiness`, `Service`, `FAQPage`) in `src/app/layout.tsx`.
+  - AI & retrieval endpoints in `public/`: `robots.txt`, `sitemap.xml`, `manifest.webmanifest`, `ai.txt`, `llms.txt`, `llms-full.txt`, `rag-knowledge-base.json`, and `rag-chunks.jsonl`.
+
+## Development & Static Build
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+pnpm install
 pnpm dev
-# or
-bun dev
+pnpm exec tsc --noEmit
+pnpm run lint
+pnpm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Static build artifacts are generated into `out/` and deployed to GitHub Pages (`addislogistics-ye.com`).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Legacy Archive
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+All original assets captured from the prior deployment are preserved under `legacy-backup/` (`EXTRACTED_CONTENT.md`, `index.html`, `logo.png`, `favicon.ico`, `styles.css`, `page.js`).

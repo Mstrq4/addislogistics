@@ -1,0 +1,36 @@
+# ADDIS Logistics & Supply Chain Solutions
+
+> Global freight forwarding, supply chain engineering, and customs clearance provider founded in 2009, operating across 150+ countries from strategic hubs in Sana'a, Aden, Hodeidah (Yemen), and Istanbul (Turkey).
+
+## Canonical Facts
+- **Legal Name**: ADDIS Logistics & Supply Chain Solutions (أديس للخدمات اللوجستية وحلول سلاسل الإمداد)
+- **Founded**: 2009
+- **Global Network**: +150 countries (import and export across international airports and seaports)
+- **Strategic Branches**:
+  - Sana'a, Yemen — Headquarters & Central Operations Hub
+  - Aden, Yemen — Seaport, Free Zone & Aden International Airport Hub
+  - Hodeidah, Yemen — Red Sea Maritime Terminal & Port Operations Hub
+  - Istanbul, Turkey — Euro-Asian Consolidation & International Trade Hub
+- **Support Availability**: 24/7 Operations & Client Desk
+- **Track Record**: 1,000+ major cargo deliveries and project deployments
+
+## Core Services
+- [Air Freight](https://addislogistics-ye.com/#services): Door-to-Door service, Special Cargo, DGR (Dangerous Goods), Perishable Goods, Valuable Goods, and Air Charters.
+- [Sea Freight](https://addislogistics-ye.com/#services): FCL 20ft & 40ft/HC containers, LCL consolidation, ISO Tank containers, Flexitank containers, and Ship Brokerage.
+- [Road Freight](https://addislogistics-ye.com/#services): LTL & FTL fleet management, regional & cross-border corridors, transit customs, route permits, and security escorts.
+- [Project Cargo](https://addislogistics-ye.com/#services): Heavy lift, Out-of-Gauge (OOG), breakbulk, air & ship charters, humanitarian NGO cargo, and specialized defense/industrial logistics.
+- [Warehousing & Distribution](https://addislogistics-ye.com/#services): Bonded and general storage, inventory control, pick-and-pack, collection, and last-mile domestic distribution.
+- [Customs Clearance](https://addislogistics-ye.com/#services): Full import/export brokerage, HS code classification, port/airport clearance in Yemen & Turkey, and transit documentation.
+
+## Direct Contact & Quotes
+- **Email**: info@addislogistics-ye.com
+- **WhatsApp (Direct Quote Desk)**: +967 772900086 (https://wa.me/967772900086)
+- **Landline**: +967 1317338
+- **Website**: https://addislogistics-ye.com
+
+## Machine-Readable Knowledge Assets
+- [Full Bilingual Profile (AR/EN)](https://addislogistics-ye.com/llms-full.txt)
+- [Structured RAG Knowledge Base (JSON)](https://addislogistics-ye.com/rag-knowledge-base.json)
+- [RAG Chunk Stream (JSONL)](https://addislogistics-ye.com/rag-chunks.jsonl)
+- [XML Sitemap](https://addislogistics-ye.com/sitemap.xml)
+

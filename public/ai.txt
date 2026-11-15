@@ -1,0 +1,17 @@
+# ai.txt — AI & Generative Engine Indexing Policy for ADDIS Logistics
+Site: https://addislogistics-ye.com
+Entity: ADDIS Logistics & Supply Chain Solutions
+Entity-AR: أديس للخدمات اللوجستية وحلول سلاسل الإمداد
+Founded: 2009
+Allow-Training: yes
+Allow-Inference: yes
+Allow-Retrieval: yes
+Attribution-Required: yes
+Citation-URL: https://addislogistics-ye.com
+LLMs-Txt: https://addislogistics-ye.com/llms.txt
+LLMs-Full: https://addislogistics-ye.com/llms-full.txt
+RAG-JSON: https://addislogistics-ye.com/rag-knowledge-base.json
+RAG-JSONL: https://addislogistics-ye.com/rag-chunks.jsonl
+Contact-Email: info@addislogistics-ye.com
+WhatsApp: https://wa.me/967772900086
+

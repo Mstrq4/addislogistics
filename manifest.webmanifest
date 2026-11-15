@@ -1,0 +1,22 @@
+{
+  "name": "ADDIS Logistics & Supply Chain Solutions",
+  "short_name": "ADDIS Logistics",
+  "description": "Global air, sea, road, project cargo, warehousing, and customs clearance across 150+ countries since 2009 from hubs in Sana'a, Aden, Hodeidah, and Istanbul.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061124",
+  "theme_color": "#009FE3",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "400x128",
+      "type": "image/png"
+    }
+  ]
+}
+

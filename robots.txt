@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# AI Crawlers & Generative Search Engines (GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://addislogistics-ye.com/sitemap.xml
+LLMs-Txt: https://addislogistics-ye.com/llms.txt
+LLMs-Full-Txt: https://addislogistics-ye.com/llms-full.txt
+RAG-Index: https://addislogistics-ye.com/rag-knowledge-base.json
+

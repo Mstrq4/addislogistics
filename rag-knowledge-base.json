@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-11-14T07:30:00+03:00",
+  "entity": {
+    "name_en": "ADDIS Logistics & Supply Chain Solutions",
+    "name_ar": "أديس للخدمات اللوجستية وحلول سلاسل الإمداد",
+    "founded": 2009,
+    "coverage_countries": "150+",
+    "website": "https://addislogistics-ye.com",
+    "email": "info@addislogistics-ye.com",
+    "whatsapp": "+967 772900086",
+    "phone": "+967 1317338",
+    "branches": ["Sana'a", "Aden", "Hodeidah", "Istanbul"]
+  },
+  "chunks": [
+    {
+      "id": "company-overview",
+      "category": "overview",
+      "keywords": ["addis", "logistics", "founded", "2009", "150", "countries", "أديس", "تأسست", "دولة"],
+      "title_en": "About ADDIS Logistics & Supply Chain Solutions",
+      "title_ar": "عن شركة أديس للخدمات اللوجستية وحلول سلاسل الإمداد",
+      "text_en": "Founded in 2009, ADDIS Logistics & Supply Chain Solutions provides comprehensive import and export logistics across 150+ countries from strategic hubs in Sana'a, Aden, Hodeidah (Yemen), and Istanbul (Turkey), backed by 24/7 support and 1,000+ major cargo deliveries.",
+      "text_ar": "تأسست شركة أديس للخدمات اللوجستية وحلول سلاسل الإمداد عام 2009، وتقدم حلول الشحن وسلاسل الإمداد في أكثر من 150 دولة حول العالم انطلاقاً من فروعها الاستراتيجية في صنعاء وعدن والحديدة باليمن وإسطنبول بتركيا، مع دعم متواصل 24/7 وأكثر من 1000 عملية تسليم ناجحة."
+    },
+    {
+      "id": "branches-network",
+      "category": "branches",
+      "keywords": ["sanaa", "aden", "hodeidah", "istanbul", "branch", "hub", "صنعاء", "عدن", "الحديدة", "إسطنبول", "فروع"],
+      "title_en": "Strategic Branches: Sana'a, Aden, Hodeidah & Istanbul",
+      "title_ar": "شبكة الفروع الاستراتيجية: صنعاء، عدن، الحديدة، إسطنبول",
+      "text_en": "ADDIS Logistics operates four strategic hubs: Sana'a (Headquarters & central dispatch), Aden (Southern Seaport, Free Zone & Airport hub), Hodeidah (Red Sea maritime terminal operations), and Istanbul (Euro-Asian air & sea consolidation and global trade hub).",
+      "text_ar": "تدير أديس لوجستكس 4 مراكز عمليات استراتيجية: صنعاء (المقر الرئيسي والعمليات المركزية)، عدن (الميناء الجنوبي والمنطقة الحرة والمطار)، الحديدة (عمليات ميناء البحر الأحمر البحرية)، وإسطنبول (مركز التجميع والتجارة الدولية بين أوروبا وآسيا والشرق الأوسط)."
+    },
+    {
+      "id": "service-air-freight",
+      "category": "services",
+      "keywords": ["air", "freight", "cargo", "dgr", "perishable", "charter", "شحن جوي", "طيران", "مواد خطرة"],
+      "title_en": "Air Freight Services",
+      "title_ar": "خدمات الشحن الجوي",
+      "text_en": "ADDIS Air Freight covers Door-to-Door delivery, Special Cargo, IATA Dangerous Goods (DGR), Perishable & cold-chain goods, Valuable cargo, and dedicated Air Charters across 150+ countries.",
+      "text_ar": "يشمل الشحن الجوي من أديس خدمة من الباب إلى الباب، الشحنات الخاصة، البضائع الخطرة (DGR)، البضائع سريعة التلف والمبردة، الشحنات الثمينة، واستئجار الطائرات الخاصة."
+    },
+    {
+      "id": "service-sea-freight",
+      "category": "services",
+      "keywords": ["sea", "ocean", "fcl", "lcl", "iso tank", "flexitank", "brokerage", "شحن بحري", "حاويات", "سفن"],
+      "title_en": "Sea Freight & Maritime Operations",
+      "title_ar": "خدمات الشحن البحري والوساطة البحرية",
+      "text_en": "ADDIS Sea Freight provides FCL 20ft & 40ft/HC containers, LCL consolidation, ISO Tank containers, Flexitank liquid transport, and full Ship Brokerage via Aden, Hodeidah, Istanbul, and global ports.",
+      "text_ar": "يوفر الشحن البحري حاويات كاملة 20 و40 قدماً (FCL)، الشحن البحري الجزئي المجمع (LCL)، حاويات الصهاريج ISO Tank، حاويات Flexitank للسوائل، وخدمات الوساطة البحرية وتأجير السفن."
+    },
+    {
+      "id": "service-road-freight",
+      "category": "services",
+      "keywords": ["road", "truck", "ltl", "ftl", "escort", "permits", "transit", "شحن بري", "شاحنات", "تصاريح"],
+      "title_en": "Road Freight & Cross-Border Fleet",
+      "title_ar": "خدمات الشحن البري وأسطول النقل",
+      "text_en": "ADDIS Road Freight manages LTL & FTL trucking, regional and long-distance corridors, transit customs documentation, oversized route permits, and coordinated security escorts.",
+      "text_ar": "تغطي خدمات الشحن البري إدارة الحمولة الكاملة والجزئية (FTL/LTL)، النقل الإقليمي وطويل المدى، جمارك الترانزيت، استخراج تصاريح الطرق، وخدمات المرافقة والتأمين."
+    },
+    {
+      "id": "service-project-cargo",
+      "category": "services",
+      "keywords": ["project", "heavy", "oog", "breakbulk", "charter", "military", "humanitarian", "شحن مشاريع", "أوزان ثقيلة"],
+      "title_en": "Project Cargo & Heavy Lift",
+      "title_ar": "شحن المشاريع والحمولات الثقيلة",
+      "text_en": "ADDIS Project Cargo handles Out-of-Gauge (OOG) equipment, breakbulk cargo, heavy freight, air & ship charters, humanitarian NGO relief pipelines, and specialized military/institutional cargo.",
+      "text_ar": "تختص خدمة شحن المشاريع بنقل المعدات خارج القياس (OOG)، البضائع السائبة الثقيلة (Breakbulk)، استئجار السفن والطائرات، شحنات المنظمات الإغاثية، والشحنات العسكرية واللوجستية الحساسة."
+    },
+    {
+      "id": "service-warehousing",
+      "category": "services",
+      "keywords": ["warehouse", "storage", "distribution", "inventory", "pick", "pack", "تخزين", "توزيع", "مستودعات"],
+      "title_en": "Warehousing & Distribution",
+      "title_ar": "التخزين والتوزيع اللوجستي",
+      "text_en": "ADDIS Warehousing & Distribution offers bonded and general warehousing, temperature-controlled zones, inventory control, pick-and-pack fulfillment, collection, and last-mile delivery.",
+      "text_ar": "توفر خدمات التخزين والتوزيع مستودعات جمركية وعادية، تخزين مبرد، إدارة دقيقة للمخزون، التجهيز والتغليف، التجميع، والتوزيع النهائي للعملاء."
+    },
+    {
+      "id": "service-customs",
+      "category": "services",
+      "keywords": ["customs", "clearance", "hs code", "import", "export", "brokerage", "تخليص جمركي", "جمارك", "استيراد"],
+      "title_en": "Customs Clearance & Regulatory Compliance",
+      "title_ar": "التخليص الجمركي والامتثال التجاري",
+      "text_en": "ADDIS Customs Clearance delivers fast import and export brokerage, HS tariff classification, NGO/project exemptions, and port/airport clearance across Yemen (Sana'a, Aden, Hodeidah) and Istanbul.",
+      "text_ar": "تقدم أديس خدمات التخليص الجمركي للاستيراد والتصدير، تصنيف التعريفة الجمركية (HS Code)، تخليص الإعفاءات الإغاثية والمشاريع، وإنجاز معاملات الموانئ والمطارات في اليمن وتركيا."
+    },
+    {
+      "id": "contact-rfq",
+      "category": "contact",
+      "keywords": ["quote", "rfq", "whatsapp", "email", "phone", "price", "عرض سعر", "واتساب", "بريد", "تواصل"],
+      "title_en": "Request a Quote & Direct Contact",
+      "title_ar": "طلب عرض سعر والتواصل المباشر",
+      "text_en": "Request an immediate freight quote via Email at info@addislogistics-ye.com, direct WhatsApp at +967 772900086, or office telephone at +967 1317338 (24/7 operations support).",
+      "text_ar": "لطلب عرض سعر فوري أو الاستفسار على مدار الساعة: واتساب مباشر +967 772900086، البريد الإلكتروني info@addislogistics-ye.com، الهاتف الثابت +967 1317338."
+    }
+  ]
+}
+
